@@ -1,0 +1,23 @@
+{
+    "name": "cyber-duck/silverstripe-migration",
+    "description": "Cross platform migration tool for SilverStripe",
+    "type": "silverstripe-module",
+    "homepage": "http://github.com/cyber-duck/silverstripe-migration",
+    "keywords": [
+        "silverstripe",
+        "migration"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Mc Cormack",
+            "email": "andrewm@cyber-duck.co.uk"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/cyber-duck/silverstripe-migration/issues"
+    },
+    "extra": {
+        "installer-name": "silverstripe-migration"
+    }
+}
