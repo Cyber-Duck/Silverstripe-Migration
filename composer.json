@@ -19,5 +19,6 @@
     },
     "extra": {
         "installer-name": "silverstripe-migration"
-    }
+    },
+    "prefer-stable": true
 }
